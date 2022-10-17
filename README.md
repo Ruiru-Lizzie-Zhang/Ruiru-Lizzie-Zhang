@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruiru-Lizzie-Zhang
 - 👀 I’m interested in computational linguistics.
 - 🌱 I’m currently studying at Tsinghua University.
-- 💞️ I’m looking to collaborate on natural language processing, especially on dialogue system.
+- 💞️ I’m looking to collaborate on natural language processing, especially on dialogue systems.
 - 📫 My email: zrr18@mails.tsinghua.edu.cn
 
 <!---
